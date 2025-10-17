@@ -23,7 +23,7 @@ This repository contains my Artificial Intelligence lab assignments.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ibrahim-code21/AI-LAB-Tasks.git
