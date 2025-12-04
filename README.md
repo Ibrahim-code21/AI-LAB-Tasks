@@ -21,6 +21,25 @@ This repository contains my Artificial Intelligence lab assignments.
 ### Task 6
 - This includes bfs using queue and without using queue.
 
+### Task 7
+- This includes A* Algorithms
+
+### Task 8 
+- This includes MinMax algorithms
+
+### Task 9 
+- This does data loading and data understanding
+
+### Task 10
+- This includes data cleaning and check for null values
+
+### Task 11
+
+- This includes testing and training the data and also saving it through pickle
+
+### Task 12 
+- this uses flask to make a chatbot frontend
+
 ---
 
 ## How to Run
